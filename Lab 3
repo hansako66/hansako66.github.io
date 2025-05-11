@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset='UTF-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <meta name="Resume" content="Hans Ako Resume">
+  <meta name="author" content="862260268">
+
+  <Hans Ako- Nurse Assistant>Hans Ako - Biology</Hans Ako Nursing Assistant>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Hans Ako</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/hansako.png" alt="Profile Picture">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-3">Hans Ako
+        </h1>
+        <div class="subheading mb-5">Biology📚</div>
+        <p class="lead mb-4"><br><br>
+
+        Hello! My name is Hans Ako, and I am currently a fourth-year undergraduate student at the University of California, Riverside (UCR), majoring in Biology. My academic journey and extracurricular experiences have shaped my passion for healthcare, scientific discovery, and community engagement. With a solid foundation in biological sciences and hands-on experience in both clinical and fitness settings, I am excited to pursue a career that combines my love for science with compassionate patient care.
+
+Throughout my time at UCR, I have focused on developing a strong academic foundation in subjects such as physiology, microbiology, and cellular biology, while also actively engaging in volunteer work that reflects my commitment to service. My coursework has challenged me to think critically, conduct research, and understand the intricacies of the human body. These studies have not only honed my scientific reasoning but also deepened my interest in pursuing a healthcare-related profession in the future.
+
+Beyond the classroom, I have consistently sought opportunities to apply my knowledge and skills in real-world settings. I served as a Certified Nursing Assistant (CNA) for a year, where I provided direct patient care in a clinical environment. This role taught me the importance of empathy, communication, and attention to detail—skills that are essential in any medical or health-focused profession. Working closely with patients and healthcare teams gave me invaluable insight into the physical and emotional aspects of patient care.
+
+For the past two years, I have also worked as a FitWell Attendant at UCR, where I support the university’s mission of promoting health and wellness. In this role, I assist with the day-to-day operations of the campus recreation center, help students and staff maintain safe workout practices, and contribute to creating a welcoming environment for all members. This experience has allowed me to better understand the importance of preventative care and holistic wellness, bridging the gap between physical fitness and overall health.
+
+In addition to my professional and academic experiences, I have been involved in multiple volunteer opportunities that reflect my dedication to serving the community. Whether assisting at local health fairs, mentoring fellow students, or helping with campus events, I strive to make a positive impact wherever I can. These roles have reinforced my belief in the importance of outreach and education, particularly when it comes to public health.
+
+As I approach graduation, I am eager to continue building on these experiences. I am currently exploring career paths in healthcare, public health, and research, with the long-term goal of contributing to a more equitable and effective healthcare system. I am passionate about making science accessible, delivering compassionate care, and working with diverse populations.
+
+Thank you for visiting my page—I look forward to sharing more about my journey and aspirations as I move forward in the world of biology and healthcare.
+        </p>
+        <div class="social-icons">
+          <a target="_blank" id="socialicon-1" href="https://www.linkedin.com/in/hans-ako-56a76520b/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a target="_blank" id="socialicon-2" href="https://github.com/hansako66">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" id="socialicon-3" href="https://x.com/HansAko6">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" id="socialicon-4" href="mailto:youremail@gmail.com">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">CNA</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://lascolinaspa.com/">Las Colinas</a></div>
+            <p>
+              I provide essential hands-on care to patients under the supervision of an experienced nursing staff. In the Skilled Nursing Facility in which I am currently employed, I play a critical role in supporting residents' daily living needs, monitoring their condition, and maintaining a safe, clean, and compassionate environment.
+
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">May 2024 - Present</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Fitwell Attendant</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://ucr.edu">UCR</a></div>
+            <p>
+             As a Fitwell Attendant, I ensure quality customer service for 2400+ patrons per day, and aid in solving highly difficult business problems such as low customer retention rate through decision making that targets change, innovation, and inclusion.(
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2022 - Present</span>
+          </div>
+        </div>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Philanthropy Chair</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://www.kappasigma.org/">Kappa Sigma</a></div>
+            <p>
+            As the philanthropy chair of my fraternity, I partnered with the Pure Land Foundation by distributing food and other home necessities to underserved communities in the Inland Empire Area. I also partnered with the Juju Foundation to raise $10,000 for children in the Southern California area, through their Pacific Juju Philanthropy Cup.
+
+          </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">January 2022 - Present</span>
+          </div>
+        </div>
+
+
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">UC Riverside</h3>
+            <div class="subheading mb-3">BS of Biology</div>
+            <div>Bachelors in Biology</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2021 - June 2025</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">Bloomington High School</h3>
+            <div class="subheading mb-3">High School Diploma</div>
+            <div>High School</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2017-May 2021</span>
+          </div>
+        </div>
+
+        
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h1>
+        <center>
+            <img src="img/fitwell.jpeg" width="500px">
+            <img src= "img/juju1.jpeg" width="500px"><br>
+            <img src= "img/Nurse Assistant.jpeg" width= "500px">
+            <img src= "img/Juju2.jpeg" width= "500px"><br>
+        </center>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    <center>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+  </script> Hans Ako</center><br>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+</body>
+</html>
